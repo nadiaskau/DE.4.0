@@ -1,0 +1,1 @@
+v2 er en ikke færdig version, hvor vi bygger HTML siden i javascript
